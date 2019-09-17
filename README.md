@@ -12,11 +12,11 @@ go-ipset requires ipset kernel module and userspace utility version 6.0 or great
 
 Install go-ipset using the "go get" command:
 
-    go get github.com/janeczku/go-ipset/ipset
+    go get github.com/zhaolanbao/go-ipset/ipset
 
 Install dependencies:
 
-    go get github.com/Sirupsen/logrus
+    go get github.com/sirupsen/logrus
     go get github.com/coreos/go-semver/semver
 
 ## API Reference ##
